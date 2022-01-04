@@ -1,0 +1,23 @@
+{
+  "name": "jth-wheel",
+  "version": "0.0.1",
+  "description": "一个UI组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Aspartame-s/Refactoring-Wheel-2022.git.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "Aspartame",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aspartame-s/Refactoring-Wheel-2022.git/issues"
+  },
+  "homepage": "https://github.com/Aspartame-s/Refactoring-Wheel-2022.git#readme"
+}
